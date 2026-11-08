@@ -1,10 +1,11 @@
 # ARCHIVIST
+---------------------------------
 
 Author: L. Bruno on behalf of NC team
 Affiliation: INAF-IRA
 Last update: 22/05/2026
 Contact: l.bruno@ira.inaf.it
----------------------------------
+
 
 The "miniARCHIVIST.py" pipeline is a simplified version of the "ARCHIVIST.py" pipeline (Bruno et al. 2026) for public distribution and usage. ARCHIVIST is used to prepare the data products of the NC-FRB project, which are made public through INCART: 
 https://ngc-frb-incart.ira.inaf.it/
