@@ -11,8 +11,11 @@ Contact: l.bruno@ira.inaf.it
 
 
 The "miniARCHIVIST.py" pipeline is a simplified version of the "ARCHIVIST.py" pipeline (Bruno et al. 2026) for public distribution and usage. ARCHIVIST is used to prepare the data products of the NC-FRB project, which are made public through INCART: 
+
 https://ngc-frb-incart.ira.inaf.it/
+
 miniARCHIVIST implements a small subset of steps from ARCHIVIST.py, allowing users to carry out the analysis of NC-FRBs. Specifically, miniARCHIVIST performs steps 4-6 as described in Sect. 3.1 of Bruno et al. 2026:
+
 https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/article/northern-cross-fast-radio-burst-project-vi-the-incart-public-database/F0A45F096F2C7B5831BBDA94F3FE1D0F
 
 
